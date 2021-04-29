@@ -14,12 +14,16 @@ img.card__img-top {
   font-size: 12px;
 }
 
+.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
 .card {
   padding: 10px;
   background-color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 header {
